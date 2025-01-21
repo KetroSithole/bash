@@ -1,6 +1,4 @@
-Here's a professional README file to introduce and explain this PowerShell-based RPA project.
 
----
 
 # **Desktop File Organizer (RPA Project Starter)**
 
